@@ -1,5 +1,7 @@
-# 12
-# 在线医院管理系统
+# 12-在线医院管理系统
+
+[文档地址](http://wechat.zjrcsy.cn/)
+
 #### 介绍
 12基于SpringBoot+Vue+redis在线医院管理系统
 【技术栈】
@@ -37,4 +39,4 @@
 ![医院1](https://github.com/MaCa-BaKa/Onlinehospital-zaixianyiyuanxitong/assets/102128690/18eb5dc8-e346-4532-bc19-2da998915e5b)
 
 
-**需要本系统联系vx: MaKaBaca0**
+[文档地址](http://wechat.zjrcsy.cn/)
